@@ -119,7 +119,7 @@ if (cantDisponibles == 0) {
 }
 else {
     const textoSegunDisponibilidad = document.getElementById("texto_segun_disponibilidad");
-    textoSegunDisponibilidad.innerHTML = `<p class="titulo-red">Están Disponibles</p>`;
+    textoSegunDisponibilidad.innerHTML = `<p class="titulo-red"> Disponibles</p>`;
 
 }
 
